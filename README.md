@@ -27,6 +27,9 @@ and migrated [here](https://github.com/openedx/edx-platform/tree/master/scripts/
 - `tubular/scripts/retirement_partner_report.py`
 - `tubular/scripts/structures.py`
 
+Following scripts related to user retirement feature has been [deprecated](https://github.com/openedx/axim-engineering/issues/881)
+and migrated [here](https://github.com/openedx/edx-platform/tree/master/scripts/user_retirement) on `edx-platform` repository.
+
 This decision was made to streamline and consolidate our codebase.
 
 The migration process was completed through this Pull Request: [PR #34063](https://github.com/openedx/edx-platform/pull/34063)
